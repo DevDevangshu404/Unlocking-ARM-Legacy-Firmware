@@ -32,7 +32,7 @@ This project documents the reverse engineering of UART and SPI protocols on a Ra
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/unlocking-ARM-Legacy-Firmware.git
+git clone https://github.com/DevDevangshu404/Unlocking-ARM-Legacy-Firmware.git
 cd unlocking-ARM-Legacy-Firmware
 
 
