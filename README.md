@@ -1,6 +1,6 @@
 # Unlocking Legacy ARM Firmware: Brute Force Unicorn Rehosting and Protocol Reverse Engineering on Raspberry Pi Pico - Devangshu Mazumder
 
-# Check more about it in my website: https://www.devangshumazumder.com/projects/content/rehost/rehostpi
+### Check more about it in my website: https://www.devangshumazumder.com/projects/content/rehost/rehostpi
 
 ## Project Overview
 
