@@ -1,5 +1,7 @@
 # Unlocking Legacy ARM Firmware: Brute Force Unicorn Rehosting and Protocol Reverse Engineering on Raspberry Pi Pico - Devangshu Mazumder
 
+# Check more about it in my website: https://www.devangshumazumder.com/projects/content/rehost/rehostpi
+
 ## Project Overview
 
 This project documents the reverse engineering of UART and SPI protocols on a Raspberry Pi Pico-based hardware security token, as well as rehosting a key firmware function using the Unicorn emulator. The goal was to recover the PIN required to unlock the device, which was successfully achieved through protocol analysis and PIN brute-forcing.
